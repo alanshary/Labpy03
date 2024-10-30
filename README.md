@@ -1,9 +1,7 @@
 # Biodata
-Nama: ANDREAN PUTRA ARYA
-
+Nama: ZAID AL ANSHARY
 Kelas: TI.24.A4
-
-NIM: 312410341
+NIM: 312410315
 
 Matkul: Bahasa Pemrograman
 
