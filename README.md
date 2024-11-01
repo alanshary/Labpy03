@@ -1,6 +1,8 @@
 # Biodata
 Nama: ZAID AL ANSHARY
+
 Kelas: TI.24.A4
+
 NIM: 312410315
 
 Matkul: Bahasa Pemrograman
@@ -51,13 +53,10 @@ print("Selesai")
 ```
 Setelah perulangan selesai, baris ini menampilkan pesan `"Selesai"` untuk menandakan bahwa program telah selesai menjalankan seluruh instruksi.
 
-Code program tersebut:
+Code program & Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/db2b670f8d7f34ed4a0ae286dd7a3d3a853fed97/Image/latihan1.png)
+![Screenshot (8)](https://github.com/user-attachments/assets/5445a7fe-0bf9-40da-8e83-5cc8b85f20a5)
 
-Hasil program tersebut:
-
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/db2b670f8d7f34ed4a0ae286dd7a3d3a853fed97/Image/Screenshot%20From%202024-10-29%2011-04-41.png)
 
 # Latihan2.py
 
@@ -116,13 +115,11 @@ print("Laba bulan ke-1 sebesar:", laba[0])
 ```
 Baris-baris ini mencetak laba untuk masing-masing bulan, dan total laba.
 
-Code program tersebut:
+Code program & Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/d19ff542f8f6a7e909f4d2828d9cfe78f1c24c86/Image/latihan2.png)
+![Screenshot (10)](https://github.com/user-attachments/assets/a3d961f6-b11b-4b07-ad67-6659cb1e6711)
 
-Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/d19ff542f8f6a7e909f4d2828d9cfe78f1c24c86/Image/Screenshot%20From%202024-10-29%2011-44-10.png)
 
 # Latihan3.py
 
@@ -198,10 +195,6 @@ else:
 ```
 Jika input pengguna tidak sesuai dengan opsi yang ada (1 atau 2), maka program akan menampilkan pesan Pilihan tidak valid!
 
-Code program tersebut:
+Code program & Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/2d34fe183a3296798cef49d24db50a2c7efd5372/Image/latihan3.png)
-
-Hasil program tersebut:
-
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/2d34fe183a3296798cef49d24db50a2c7efd5372/Image/Screenshot%20From%202024-10-29%2012-06-49.png)
+![Screenshot (11)](https://github.com/user-attachments/assets/dbe6f800-61a1-4e23-941d-9b78204869a1)
