@@ -7,6 +7,8 @@ NIM: 312410315
 
 Matkul: Bahasa Pemrograman
 
+Dosen : Agung Nugroho, S.Kom., M.Kom.
+
 # Soal latihan
 
 ![gambar](https://github.com/andreanbadeh/Labpy03/blob/ead01c1a56b760fa2741e76cda7776d524b1c0e9/Image/Screenshot%20From%202024-10-29%2011-15-44.png)
